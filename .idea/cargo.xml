@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoSettings">
+    <option name="linkedExternalProjectsSettings">
+      <CargoProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="E:\RustProgram\algorithms" />
+          </set>
+        </option>
+        <option name="sdkName" value="Rust 1.9.0" />
+      </CargoProjectSettings>
+    </option>
+  </component>
+</project>
