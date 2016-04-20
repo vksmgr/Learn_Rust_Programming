@@ -1,11 +1,12 @@
 use std::io;
 //mod sorting;
-mod learning;
-
+//mod learning;
+mod life_time;
 fn main() {
 
     //This is just Learning module
-    learning::Hello();
+   // learning::Hello();
+    life_time::call_me();
    /* println!("This is introduction to algorithms");*/
    /* let s = getInput();
     println!(" you entered the String : {:?} ",s);

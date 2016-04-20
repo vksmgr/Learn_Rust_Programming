@@ -21,11 +21,11 @@ pub fn print_name(name: Name){
     };
 }
 fn hello_vikas(){
-    println!("hello Vikas");
+    println!("hello ");
 }
 
 fn hello_Shyam(){
-    println!("hello Shyam");
+    println!("hello shyam");
 }
 fn hello_ram(){
     println!("hello Ram");
