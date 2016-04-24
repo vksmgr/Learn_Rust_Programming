@@ -26,7 +26,9 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d913f1d6-527a-428c-ac10-40dcc50dd184" name="Default" comment="" />
+    <list default="true" id="d913f1d6-527a-428c-ac10-40dcc50dd184" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="algorithms.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -685,7 +687,7 @@
       <workItem from="1461318612552" duration="2047000" />
       <workItem from="1461388117552" duration="4377000" />
       <workItem from="1461398556481" duration="8191000" />
-      <workItem from="1461474603583" duration="2274000" />
+      <workItem from="1461474603583" duration="2774000" />
     </task>
     <task id="LOCAL-00001" summary="Today We learn About Enum">
       <created>1460984265213</created>
@@ -740,7 +742,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66637000" />
+    <option name="totallyTimeSpent" value="67137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
